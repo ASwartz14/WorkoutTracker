@@ -17,8 +17,7 @@
 A simple Fitness app that helps you keep track of your workouts and allows you to see your progress.
 
 - See the project repository: https://github.com/ASwartz14/WorkoutTracker on GitHub.
-- See deployed app at:
-
+- See deployed app at: https://lit-plains-11044.herokuapp.com/
 ## Visuals
 ![Screenshot (75)](https://user-images.githubusercontent.com/66501008/107081840-27831200-67a8-11eb-95b6-ad5b26a1dec4.png)
 ![Screenshot (77)](https://user-images.githubusercontent.com/66501008/107081902-3e296900-67a8-11eb-8aa2-d65b4a7adfc7.png)
