@@ -20,7 +20,8 @@ A simple Fitness app that helps you keep track of your workouts and allows you t
 - See deployed app at:
 
 ## Visuals
-
+![Screenshot (75)](https://user-images.githubusercontent.com/66501008/107081840-27831200-67a8-11eb-95b6-ad5b26a1dec4.png)
+![Screenshot (77)](https://user-images.githubusercontent.com/66501008/107081902-3e296900-67a8-11eb-8aa2-d65b4a7adfc7.png)
 ## Installation
 
 No installation required just visit the website. Otherwise fork the repo and use node package manager to run npm i, then npm start and open your browser to localhost:8080.
